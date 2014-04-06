@@ -12,4 +12,6 @@ public class AssitanceActivity extends Activity {
         textview.setText("Assistance tab");
         setContentView(textview);
     }
+    
+    
 }
